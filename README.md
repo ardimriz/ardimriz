@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ardimriz
-- 🌱 I’m currently learning Programming start with HTML & CSS
+array is sucks
 
 <!---
 ardimriz/ardimriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
